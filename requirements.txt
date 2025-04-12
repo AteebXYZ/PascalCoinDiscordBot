@@ -1,0 +1,4 @@
+discord_py_interactions==5.13.2
+jurigged==0.6.0
+python-dotenv==1.0.1
+Requests==2.32.3
